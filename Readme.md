@@ -48,7 +48,7 @@ This will launch the app window where you can explore the various screens and fe
 ## Project Structure
 
 ```
-next-life-app/
+Next-Life/
 ├── assets/                 # Assets like fonts and images
 │   ├── fonts/              # Font files (e.g., NotoColorEmoji.ttf)
 │   └── screenshots/        # Screenshot images for README
